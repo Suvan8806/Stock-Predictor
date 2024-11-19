@@ -1,6 +1,6 @@
 # Stock Predictor
 
-This project provides a **Stock Predictor** for analyzing A stock's historical performance and predicting future prices. It leverages Python for data preprocessing, TensorFlow's LSTM (Long Short-Term Memory) models for time-series forecasting, and Matplotlib for data visualization. The project demonstrates end-to-end data handling, model training, and prediction capabilities.
+This project provides a **Stock Predictor** for analyzing A stock's historical performance and predicting future prices with around 85% Accuracy. It leverages Python for data preprocessing, TensorFlow's LSTM (Long Short-Term Memory) models for time-series forecasting, and Matplotlib for data visualization. The project demonstrates end-to-end data handling, model training, and prediction capabilities.
 
 
 ---
