@@ -15,7 +15,8 @@ This project provides a **Stock Predictor** for analyzing A stock's historical p
 <img src="https://github.com/user-attachments/assets/eeb1e097-8c6d-4270-af96-b2212d1ccce6" width="325">
 <img src="https://github.com/user-attachments/assets/8de741b8-e04b-4807-943e-0e6f1eb023d5" width="325">
 - **Future Price Prediction**: Uses LSTM networks to Forecast the Stocks closing stock prices based on historical trends.
--                     TSLA                                     GOOG                                         MSFT
+
+-                      TSLA                                     GOOG                                         MSFT
 <img src="https://github.com/user-attachments/assets/ec022f06-bc1e-47ee-94ec-bc890df54967" width="325">
 <img src="https://github.com/user-attachments/assets/c65772b5-cec1-4653-adca-4396bca0c858" width="325">
 <img src="https://github.com/user-attachments/assets/dd351163-045b-44c6-ac13-1d1d3f71236e" width="325">
