@@ -11,6 +11,7 @@ This project provides a **Stock Predictor** for analyzing A stock's historical p
 - **Predictive Modeling**: Uses LSTM networks to predict future Tesla stock prices.
 - **Visualization**: Employs Matplotlib to display historical trends, model performance, and predictions.
 - **Future Price Prediction**: Forecasts the Stocks closing stock prices based on historical trends.
+- Tesla
 <img src="https://github.com/user-attachments/assets/e6d256bd-e23e-4198-9daa-8c2403b61c06" width="300">
 
 
