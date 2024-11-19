@@ -41,11 +41,11 @@ The project utilizes TensorFlow's LSTM, a powerful neural network architecture f
 - **Feature Scaling**: Normalizes data to improve model performance.
 - **Model Architecture**: Defines an LSTM model with layers optimized for time-series forecasting.
 - **Training**: Fits the model on historical stock data to capture temporal patterns.
-- **Prediction**: Outputs future Tesla stock prices.
+- **Prediction**: Outputs future stock prices.
 
 ### 3. Visualization with Matplotlib
 
 Matplotlib is used to:
 - Plot historical stock prices to identify trends.
 - Compare actual vs. predicted prices to evaluate model performance.
-- Display future price predictions for Tesla's stock.
+- Display future price predictions for the stock.
