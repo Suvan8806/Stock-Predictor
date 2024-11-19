@@ -1,6 +1,6 @@
-# Tesla Stock Predictor
+# Stock Predictor
 
-This project provides a **Stock Predictor** for analyzing Tesla's historical stock performance and predicting future prices. It leverages Python for data preprocessing, TensorFlow's LSTM (Long Short-Term Memory) models for time-series forecasting, and Matplotlib for data visualization. The project demonstrates end-to-end data handling, model training, and prediction capabilities, making it a valuable addition to your portfolio.
+This project provides a **Stock Predictor** for analyzing A stock's historical performance and predicting future prices. It leverages Python for data preprocessing, TensorFlow's LSTM (Long Short-Term Memory) models for time-series forecasting, and Matplotlib for data visualization. The project demonstrates end-to-end data handling, model training, and prediction capabilities.
 
 ---
 
