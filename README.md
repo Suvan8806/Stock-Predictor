@@ -10,14 +10,14 @@ This project provides a **Stock Predictor** for analyzing A stock's historical p
 - **Data Preprocessing**: Cleans and organizes stock data for modeling.
 - **Visualization**: Employs Matplotlib to display historical trends, model performance, and predictions.
 - **Predictive Modeling**: Trains the LSTM network based on historical trends, then goes through training, Validation and Testing which compares the Stocks closing price.
--                 TSLA                              GOOG                            MSFT
+-                 TSLA                              GOOG                              MSFT
 <img src="https://github.com/user-attachments/assets/fed42445-0708-4aab-a020-f789d66ffa83" width="270">
 <img src="https://github.com/user-attachments/assets/eeb1e097-8c6d-4270-af96-b2212d1ccce6" width="270">
 <img src="https://github.com/user-attachments/assets/8de741b8-e04b-4807-943e-0e6f1eb023d5" width="270">
 
 - **Future Price Prediction**: Uses LSTM networks to Forecast the Stocks closing stock prices based on historical trends.
 
--                      TSLA                                     GOOG
+-                 TSLA                              GOOG                              MSFT
 <img src="https://github.com/user-attachments/assets/ec022f06-bc1e-47ee-94ec-bc890df54967" width="270">
 <img src="https://github.com/user-attachments/assets/c65772b5-cec1-4653-adca-4396bca0c858" width="270">
 <img src="https://github.com/user-attachments/assets/dd351163-045b-44c6-ac13-1d1d3f71236e" width="270">
