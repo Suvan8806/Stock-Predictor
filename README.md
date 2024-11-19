@@ -5,6 +5,8 @@ This project provides a **Stock Predictor** for analyzing A stock's historical p
 ---
 # Example
 Teslas Stock Testing and Prediction
+<img src="https://github.com/user-attachments/assets/e6d256bd-e23e-4198-9daa-8c2403b61c06" alt="Image Description" width="500">
+
 ![image](https://github.com/user-attachments/assets/e6d256bd-e23e-4198-9daa-8c2403b61c06)
 ![image](https://github.com/user-attachments/assets/de6c86a2-308e-4d65-ad8b-91a9eaee0e93)
 
