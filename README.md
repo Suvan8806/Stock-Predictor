@@ -2,14 +2,6 @@
 
 This project provides a **Stock Predictor** for analyzing A stock's historical performance and predicting future prices. It leverages Python for data preprocessing, TensorFlow's LSTM (Long Short-Term Memory) models for time-series forecasting, and Matplotlib for data visualization. The project demonstrates end-to-end data handling, model training, and prediction capabilities.
 
----
-# Example
-Teslas Stock Testing and Prediction
-<img src="https://github.com/user-attachments/assets/e6d256bd-e23e-4198-9daa-8c2403b61c06" alt="Image Description" width="500">
-
-![image](https://github.com/user-attachments/assets/e6d256bd-e23e-4198-9daa-8c2403b61c06)
-![image](https://github.com/user-attachments/assets/de6c86a2-308e-4d65-ad8b-91a9eaee0e93)
-
 
 ---
 
@@ -18,7 +10,8 @@ Teslas Stock Testing and Prediction
 - **Data Preprocessing**: Cleans and organizes stock data for modeling.
 - **Predictive Modeling**: Uses LSTM networks to predict future Tesla stock prices.
 - **Visualization**: Employs Matplotlib to display historical trends, model performance, and predictions.
-- **Future Price Prediction**: Forecasts Tesla's closing stock prices based on historical trends.
+- **Future Price Prediction**: Forecasts the Stocks closing stock prices based on historical trends.
+- <img src="https://github.com/user-attachments/assets/e6d256bd-e23e-4198-9daa-8c2403b61c06" alt="Image Description" width="500">
 
 ---
 
